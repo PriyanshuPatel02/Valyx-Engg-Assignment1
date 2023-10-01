@@ -2,14 +2,16 @@
 
 
 1 - 
-Python: Python is a widely-used, high-level programming language known for its simplicity and readability. It is a popular choice for data analysis and manipulation due to its extensive ecosystem of libraries and packages. Here's why Python was chosen:
+Python: Python is a widely-used, high-level programming language known for its simplicity and readability. 
+It is a popular choice for data analysis and manipulation due to its extensive ecosystem of libraries and packages. Here's why Python was chosen:
 
      Readability: Python code is easy to read and understand, which is essential for maintaining and extending the code in the future.
      Versatility: Python can be used for a wide range of tasks, including data analysis, web development, machine learning, and more. It is well-suited for scripting and building applications.
      Community and Libraries: Python has a large and active community of developers, which means there are numerous libraries and packages available to perform various tasks efficiently.
 
 2-
-Pandas: Pandas is a powerful data manipulation library for Python. It provides data structures like DataFrames and Series, which are highly efficient for handling structured data like CSV files. Here's why Pandas was chosen:
+Pandas: Pandas is a powerful data manipulation library for Python. It provides data structures like DataFrames and Series, 
+which are highly efficient for handling structured data like CSV files. Here's why Pandas was chosen:
 
        Data Handling: Pandas simplifies data loading, cleaning, and manipulation tasks. It allows you to work with tabular data in a way   that's similar to working with a database or spreadsheet.
 
