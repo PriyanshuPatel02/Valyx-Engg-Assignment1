@@ -1,0 +1,19 @@
+Python: Python is a versatile and widely-used programming language with a rich ecosystem of libraries and packages. It is a popular choice for data analysis and visualization because of its simplicity and readability.
+
+Pandas: Pandas is a powerful library for data manipulation and analysis. It is chosen for several reasons:
+
+Data Loading and Preprocessing: Pandas simplifies the process of loading CSV data into dataframes and provides tools for preprocessing and cleaning the data, such as converting date columns to datetime objects.
+
+Data Filtering and Categorization: Pandas allows for efficient data filtering based on conditions, which is essential for categorizing expenses and earnings based on keywords.
+
+Data Aggregation: Pandas provides functions for calculating aggregates like total expenses and earnings, which is necessary for the tool's functionality.
+
+Matplotlib: Matplotlib is a widely-used library for creating static, animated, and interactive visualizations in Python. It is chosen for its capabilities in creating time series plots:
+
+Time Series Visualization: Matplotlib is well-suited for visualizing time series data, such as how expenses or earnings evolve over time. It allows for the creation of line plots that show trends over specified time periods.
+
+Customization: Matplotlib provides extensive customization options for plots, allowing the code to create informative and visually appealing time series graphs for each category.
+
+datetime: The datetime library is used for parsing and handling date and time information in the bank account statement data. It is essential for filtering data based on the user-defined time range.
+
+These libraries were chosen because they provide a comprehensive set of tools for data manipulation, filtering, aggregation, and visualization, all of which are essential for building a tool to analyze and visualize bank account statement data effectively.
